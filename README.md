@@ -50,17 +50,20 @@ Designed for real-world usage and placement-level full stack demonstration.
 ### 🔐 Login Page
 ![Login Page](images/login.png)
 
+### 🔐 Signup Page
+![Signup](images/signup.png)
+
 ### 📚 Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### ➕ View Book Page
 ![View Book](images/viewBooks.png)
 
 ### 📖 Issue Book
-![Borrowed Book](images/Borrowed Books.png)
+![Borrowed Book](images/borrowedbooks.png)
 
 ### 📖 Return Book
-![Return Book](images/Return books.png)
+![Return Book](images/returnbooks.png)
 
 ---
 
