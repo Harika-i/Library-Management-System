@@ -70,7 +70,7 @@ Designed for real-world usage and placement-level full stack demonstration.
 ## 💻 How to Run Project
 
 1. Clone repository
-2. Open backend in IntelliJ
+2. Open backend in any IDE(Ecllipse, VSC, IntelliJ)
 3. Configure MySQL in application.properties
 4. Run Spring Boot application
 5. Open frontend index.html in browser
