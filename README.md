@@ -88,8 +88,7 @@ This project was built for:
 
 ## 👨‍💻 Developed By
 **K HARIKA**   
-Java Full Stack Developer  
-DSA | Java | MySQL | System Design  
+
 
 ---
 
